@@ -15,6 +15,7 @@
         {
 
             bool isGo = true;
+
             while (isGo)
             {
                 Console.WriteLine("\nЛарионов Никита Юрьевич. гр. 110з\n");
