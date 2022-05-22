@@ -286,7 +286,6 @@
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("Матрица с упорядоченными по возрастанию повторяющихся элементов строками");
 
-
                 //============================================================
                 Console.WriteLine($"Строк:    {countRow}");
                 Console.WriteLine($"Столбцов: {countCol}\n");
@@ -317,9 +316,6 @@
                     Console.WriteLine(str);
                     str = "";
                 }
-
-                //printArray(sortArray);
-                //============================================================
 
             }
 
